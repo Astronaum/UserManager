@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="UserManager Requests">6ec465a9c3ed52107873f90ed40131e3</dashboard>
+        <name>New Tab 1</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-29 13:24:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ec46de5c32192107873f90ed401319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UserManager" source="x_1539348_userma_0">dab469e5c32192107873f90ed40131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UserManager">dab469e5c32192107873f90ed40131c8</sys_scope>
+        <sys_update_name>par_dashboard_tab_6ec46de5c32192107873f90ed401319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-29 13:24:15</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>
